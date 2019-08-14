@@ -20,7 +20,7 @@ int floorSqrt(int x)
 int main() 
 { 
 	int x;
-    cout <<"ENTER THE NUMBER ";
+    cout <<"ENTER THE NUMBER TO FIND SQRT: ";
 	cin >> x; 
     cout << floorSqrt(x) << endl; 
     return 0; 
