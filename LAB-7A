@@ -45,6 +45,7 @@ while (i > 0 && j > 0)
 
 
 cout << "LCS of " << X << " and " << Y << " is " << lcs; 
+cout <<"\tlength is:"<<strlen(lcs); 
 } 
 
 int main() 
