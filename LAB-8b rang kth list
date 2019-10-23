@@ -78,3 +78,26 @@ int main()
 
 	return 0; 
 } 
+
+
+
+-------------------------------------------------------
+output:
+
+ENTER THE VALUE OF K:
+ 2
+
+ENTER THE SIZE OF THE ARRAY:
+4
+
+ENTER THE ARRAY ELEMENTS:
+78
+13
+12
+16
+5
+23
+13
+5
+The smallest range is [23 , 78]
+Press ENTER to continue...
