@@ -25,3 +25,22 @@ int main()
 	cout<<endl;
 	return 0; 
 }
+
+
+
+--------------------------------------------------------------
+OUTPUT:
+
+
+ENTER THE SIZE OF THE ARRAY:
+ 6
+ENTER THE ARRAY ELEMENTS:
+12
+45
+36
+16
+56
+55
+FALSE...
+
+Press ENTER to continue...
